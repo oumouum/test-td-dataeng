@@ -5,7 +5,7 @@ Assignment for TD
 1.
 
 
-2.
+Question 2 - Text Sanitizer
 
 
 Question 3 - SQL : BIgQuery SQL syntax
