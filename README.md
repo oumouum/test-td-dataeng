@@ -8,7 +8,7 @@ Assignment for TD
 2.
 
 
-3.
+Question 3 - SQL : BIgQuery SQL syntax
 
 ```
 with sale_transaction as (
