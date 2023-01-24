@@ -2,7 +2,9 @@
 
 Assignment for TD
 
-1.
+Qusetion 1 - Data Pipeline Design
+
+![TD-Q1](https://user-images.githubusercontent.com/38657478/214230538-7ce8d647-d2bf-41eb-ae52-20b8511f2f2d.jpg)
 
 
 Question 2 - Text Sanitizer
