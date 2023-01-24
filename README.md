@@ -9,7 +9,7 @@ Qusetion 1 - Data Pipeline Design
 
 Question 2 - Text Sanitizer
 
-[a link](https://github.com/oumouum/test-td-dataeng/blob/main/sanitize-text.py)
+[Click Here!!](https://github.com/oumouum/test-td-dataeng/blob/main/sanitize-text.py)
 
 Question 3 - SQL : BIgQuery SQL syntax
 
